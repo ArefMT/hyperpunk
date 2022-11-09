@@ -5,5 +5,5 @@ def is_one_greater_than_two():
     print('here comes nothing!')
 
 
-if __name__ == '__main__':
-    is_one_greater_than_two()
+def hi():
+    print('hi')

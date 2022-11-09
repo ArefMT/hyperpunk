@@ -2,6 +2,7 @@
 # understand this you guys!!!!
 def is_one_greater_than_two():
     print('*')
+    print('here comes nothing!')
 
 
 if __name__ == '__main__':

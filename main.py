@@ -2,7 +2,8 @@
 # understand this you guys!!!!
 def is_one_greater_than_two():
     if 1 > 2:
-        print('MAth!')
+        print('print')
+        
 
 
 def hi():
